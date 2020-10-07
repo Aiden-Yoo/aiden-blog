@@ -1,13 +1,21 @@
 ---
 title: 'about'
-date: 2019-1-27 16:21:13
+date: 2020-10-7 12:21:13
 lang: 'en'
 ---
 
-# Your name
+# Aiden, Yoo
 
 <div align="center">
 
-_Thank you for reading my resume. If you want to contact me, Please send me an email._
+_안녕하세요~ 반갑습니다!!!_
 
 </div>
+
+## About.
+
+## Work Experience.
+
+## Additional skills.
+
+- demo
