@@ -1,8 +1,8 @@
 module.exports = {
-  title: `AidenYoo(Memento):`,
+  title: `Aiden(Memento):`,
   description: `Blog posted about Network/Coding`,
-  author: `AidenYoo`,
-  introduction: `코딩에 관심있는 네트워크 엔지니어의 기록`,
+  author: `Aiden`,
+  introduction: `네트워크 엔지니어의 기록`,
   siteUrl: `https://aiden-yoo.netlify.app`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account

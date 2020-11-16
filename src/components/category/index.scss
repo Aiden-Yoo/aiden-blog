@@ -6,11 +6,9 @@
   top: 0;
   line-height: 0;
   white-space: nowrap;
-  overflow-x: auto;
-  // overflow-x: scroll;
+  overflow-x: scroll;
   -ms-overflow-style: none; // IE 10+
-  // overflow: -moz-scrollbars-none; // Firefox
-  overflow: auto;
+  overflow: -moz-scrollbars-none; // Firefox
   z-index: 1;
   padding: 6px 20px;
 
@@ -35,9 +33,9 @@
   }
 }
 
-.category-container::-webkit-scrollbar {
-  display: none; // Safari and Chrome
-}
+// .category-container::-webkit-scrollbar {
+// display: none; // Safari and Chrome
+// }
 
 .category-container {
   scroll-behavior: smooth;
