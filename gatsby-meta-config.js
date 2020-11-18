@@ -2,14 +2,14 @@ module.exports = {
   title: `Aiden(Memento):`,
   description: `Blog posted about Network/Coding`,
   author: `Aiden`,
-  introduction: `네트워크 엔지니어의 기록`,
+  introduction: `네트워크 엔지니어 Aiden의 기록`,
   siteUrl: `https://aiden-yoo.netlify.app`, // Your blog site url
   social: {
     twitter: ``, // Your Twitter account
     github: `Aiden-Yoo`, // Your GitHub account
     medium: ``, // Your Medium account
     facebook: ``, // Your Facebook account
-    linkedin: `dong-ju-yoo-8b6819102`, // Your LinkedIn account
+    linkedin: ``, //dong-ju-yoo-8b6819102 // Your LinkedIn account
   },
   icon: `content/assets/felog.png`, // Add your favicon
   keywords: [`blog`],
