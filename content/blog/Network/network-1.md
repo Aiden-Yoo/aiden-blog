@@ -1,7 +1,7 @@
 ---
-title: '[eve-ng] 01. eve-ng 설치'
+title: '[EVE-NG] 01. eve-ng 설치'
 date: 2020-11-18 09:11:87
-category: Network
+category: network
 thumbnail: { thumbnailSrc }
 draft: false
 ---
@@ -15,7 +15,7 @@ eve-ng는 스위치를 가상화하여 LAB을 할 수 있는 시뮬레이터이�
 # 2. 준비물
 
 - 가상머신 (VMware, VirtualBox)
-- FTP or SCP Client(WinSCP, FileZilla)
+- FTP / SCP Client(WinSCP, FileZilla)
 - 제품 가상 이미지
 
 > eve-ng: v2.0.3-110 기준 작성
@@ -44,11 +44,12 @@ VirtualBox 등 다른 가상머신을 사용해도 되지만, 본 예시에서�
 
 ## WinSCP 다운로드
 
-[Download](https://my.vmware.com/en/web/vmware/downloads/info/slug/desktop_end_user_computing/vmware_workstation_player/16_0)로 이동하여 `VMware workstation` 다운로드 및 설치
+[Download](https://winscp.net/eng/docs/guide_install)로 이동하여 `WinSCP` 다운로드 및 설치
 
+스위치 이미지 등의 파일을 eve-ng로 전송하기 위해 FTP/SCP를 사용한다.
 FileZilla 등 다른 FTP 클라이언트를 사용해도 되지만, 본 예시에서는 WinSCP를 사용한다.
 
-# 4. 구성
+# 4. 구성 절차
 
 ## VMware
 

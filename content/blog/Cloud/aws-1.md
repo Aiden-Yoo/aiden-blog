@@ -1,7 +1,7 @@
 ---
 title: '[AWS] 01. AWS?'
 date: 2020-11-17 00:11:19
-category: Cloud
+category: cloud
 thumbnail: { thumbnailSrc }
 draft: false
 ---
